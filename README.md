@@ -10,9 +10,9 @@ This document explains how to decode and encode `monero-subscription:` payment c
 To decode a Monero subscription payment code, follow these steps:
 
 1. Remove the Monero Subscription identifier: `monero-subscription:`
-1. Decode the string from Base64 to obtain the compressed data.
-2. Decompress the compressed data using gzip to get the JSON string.
-3. Parse the JSON string to extract the field values.
+2. Decode the string from Base64 to obtain the compressed data.
+3. Decompress the compressed data using gzip to get the JSON string.
+4. Parse the JSON string to extract the field values.
 
 ## Example Function To Decode Monero Subscription Code
 
