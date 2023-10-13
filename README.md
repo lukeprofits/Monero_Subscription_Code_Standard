@@ -1,6 +1,6 @@
 # Monero_Subscription_Code_Standard
 
-# Monero Payment Request Standard (Formerly Monero Subscription Code Standard)
+# The Monero Subscription Code Standard has been depreciated and replaced with the [Monero Payment Request Standard](https://github.com/lukeprofits/Monero_Payment_Request_Standard)
 
 ## Decoding & Encoding `monero-subscription:` Payment Codes
 
