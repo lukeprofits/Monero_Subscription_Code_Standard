@@ -1,4 +1,4 @@
-# Monero_Subscription_Code_Standard
+# Monero_Subscription_Code_Standard (Now Monero Payment Request Standard)
 
 > :warning: The Monero Subscription Code Standard has been depreciated and replaced with the [Monero Payment Request Standard](https://github.com/lukeprofits/Monero_Payment_Request_Standard)  :warning: 
 
